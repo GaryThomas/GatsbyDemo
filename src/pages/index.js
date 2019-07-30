@@ -1,3 +1,12 @@
 import React from "react"
 
-export default () => <div>Welcome to the Great Gatsby Bootcamp</div>
+const IndexPage = () => {
+    return (
+        <div>
+            <h1>Hello!</h1>
+            <h2>Hi, I'm the droid in your computer...</h2>
+        </div>
+    )
+}
+
+export default IndexPage
